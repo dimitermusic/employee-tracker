@@ -127,8 +127,7 @@ const main = () => {
                     }
                 )
                 .then((ans) => {
-                    // TODO: Find a way to change the existing role of an employee using sql commands
-                    db.query("INSERT INTO employee(name)VALUES(?)", [ans.updateEmpId, updateRoleId], (err, data) => {
+                    db.query("UPDATE employee SET employee(role_id)=? WHERE employee(id)=?VALUES(?,?)", [updateRoleId, ans.updateEmpId], (err, data) => {
                         if (err) {
                             throw err
                         } else {
