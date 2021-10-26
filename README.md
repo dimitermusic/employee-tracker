@@ -10,6 +10,7 @@
   - [License](#license)
   - [Testing Instructions](#testing-instructions)
   - [Questions](#questions)
+  - [Link to Repository](#link-to-repository)
 
 ## Description
 This app was designed to help Managers easily keep track of and manage their employees.
@@ -37,4 +38,9 @@ If you have any questions, please visit my Github profile or email me using the 
 -[Github](https://github.com/dimitermusic)
 
 -[Email](mailto:dimitermusic@gmail.com)
+
+## Link to Repository
+If you have any questions, please visit my Github profile or email me using the links below
+
+-[Repository](https://github.com/dimitermusic/employee-tracker)
 
