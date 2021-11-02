@@ -30,7 +30,7 @@ This application is covered under the The Do What the F You Want to Public Licen
 ## Testing Instructions
 To test this, run the application in your terminal.
 
-[Video](https://drive.google.com/file/d/17jIv5V7bIUscHU93MuddsziVK0tutl1B/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1fk0lTffvxXjQkAmtJUhaOt6661vTAX81/view?usp=sharing)
 
 ## Questions
 If you have any questions, please visit my Github profile or email me using the links below
